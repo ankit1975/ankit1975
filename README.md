@@ -18,4 +18,4 @@
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit1975&theme=tokyonight" alt="mystreak">
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
