@@ -1,10 +1,9 @@
 <h1 align = "Center" >Hello There 👋 </h1>
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=ankit1975&style=plastic&color=orange&label=PROFILE+VIEWS" alt="ankit1975"  /> </p>
 
-- 🔭 I’m currently working on backendier wallet
-- 🌱 I’m currently learning everything  :)
+- 🔭 I’m Python Developer
 - 📫 How to reach me: ankitmalpani1975@gmail.com
-- ⚡ Fun fact: we are those endless summer stars, we gone so far from this wonder world 🤣
+- ⚡ every Problem Comes with their Solution, Find it 😊
 
 ## Activity
 
