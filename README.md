@@ -3,7 +3,7 @@
 
 - 🔭 I’m Python Developer
 - 📫 How to reach me: ankitmalpani1975@gmail.com
-- ⚡ every Problem Comes with their Solution, Find it 😊
+- ⚡ Every Problem Comes with their Solution, Find It :)
 
 ## Activity
 
