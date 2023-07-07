@@ -1,20 +1,44 @@
 <h1 align = "Center" >Hello There 👋 </h1>
-<p align="Left"> <img src="https://komarev.com/ghpvc/?username=ankit1975&style=plastic&color=orange&label=PROFILE+VIEWS" alt="ankit1975"  /> </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Purrgrammer+(Python).;Always%20learning%20new%20concepts&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<table align="center">
+<tr>
+	
+<th>
+<a href="https://github.com/imvickykumar999">
+Honest Page View
+</a>
+</th>
+</tr>
+
+<tr>
+<td>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit1975&color=orange&label=PROFILE+VIEWS&style=flat-square" alt="ankit1975"/> </p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user==ankit1975&theme=gruvbox-duo" alt="mystreak">
+<br><br>
+</div>
+
+
 
 - 🔭 I’m Python Developer
 - 📫 How to reach me: ankitmalpani1975@gmail.com
 - ⚡ Every Problem Comes with their Solution, Find It :)
 
-## Activity
-
-<div align="center">
-    <a href="https://github.com/ankit1975">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1975&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit1975&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	<img src="https://activity-graph.herokuapp.com/graph?username=ankit1975&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	<img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-	</a>
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit1975&theme=tokyonight" alt="mystreak">
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+## 📱 Other `Profiles`
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imvickykumar999/) | [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11493297/vicky-kumar) | [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/8044164) |
+| ------- | --- | --- |
+
+
